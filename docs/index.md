@@ -138,6 +138,6 @@ hero:
     <a class="note-link" href="./support">Support</a>
     <a class="note-link" href="./privacy">Privacy Policy</a>
     <a class="note-link" href="mailto:localscreen423@163.com">localscreen423@163.com</a>
-    <a class="note-link" href="https://github.com/ChenChenyaqi">GitHub</a>
+    <a class="note-link" href="https://github.com/ChenChenyaqi/ShareScreenDocs">GitHub</a>
   </div>
 </section>

@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 const SITE_URL = "https://chenchenyaqi.github.io/ShareScreenDocs";
+const REPO_URL = "https://github.com/ChenChenyaqi/ShareScreenDocs";
 
 function resolveCanonicalPath(relativePath: string): string {
   if (relativePath === "index.md") {
@@ -93,7 +94,7 @@ export default defineConfig({
         author: {
           "@type": "Person",
           name: "ChenChenyaqi",
-          url: "https://github.com/ChenChenyaqi"
+          url: REPO_URL
         },
         offers: {
           "@type": "Offer",
@@ -119,7 +120,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: { src: "/localscreen-logo.png", alt: "LocalScreen" },
-    socialLinks: [{ icon: "github", link: "https://github.com/ChenChenyaqi" }]
+    socialLinks: [{ icon: "github", link: REPO_URL }]
   },
   locales: {
     root: {
@@ -131,7 +132,7 @@ export default defineConfig({
           { text: "Home", link: "/" },
           { text: "Support", link: "/support" },
           { text: "Privacy Policy", link: "/privacy" },
-          { text: "GitHub", link: "https://github.com/ChenChenyaqi" }
+          { text: "GitHub", link: REPO_URL }
         ],
         footer: {
           message: "Support: localscreen423@163.com",
@@ -148,7 +149,7 @@ export default defineConfig({
           { text: "首页", link: "/zh-CN/" },
           { text: "技术支持", link: "/zh-CN/support" },
           { text: "隐私政策", link: "/zh-CN/privacy" },
-          { text: "GitHub", link: "https://github.com/ChenChenyaqi" }
+          { text: "GitHub", link: REPO_URL }
         ],
         footer: {
           message: "技术支持：localscreen423@163.com",
@@ -165,7 +166,7 @@ export default defineConfig({
           { text: "首頁", link: "/zh-TW/" },
           { text: "技術支援", link: "/zh-TW/support" },
           { text: "隱私政策", link: "/zh-TW/privacy" },
-          { text: "GitHub", link: "https://github.com/ChenChenyaqi" }
+          { text: "GitHub", link: REPO_URL }
         ],
         footer: {
           message: "技術支援：localscreen423@163.com",
