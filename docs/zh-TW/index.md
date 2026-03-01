@@ -15,6 +15,9 @@ hero:
       text: 查看功能
       link: "#features"
     - theme: alt
+      text: 前往 App Store
+      link: https://apps.apple.com/hk/app/localscreen-share/id6759612385
+    - theme: alt
       text: 技術支援
       link: /zh-TW/support
 ---
