@@ -16,7 +16,7 @@ hero:
       text: 查看功能
       link: "#features"
     - theme: alt
-      text: 前往 App Store
+      text: 即将上架 App Store
       link: https://apps.apple.com/cn/app/localscreen-share/id6759612385
     - theme: alt
       text: 技术支持
