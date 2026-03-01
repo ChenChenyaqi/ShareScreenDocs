@@ -1,15 +1,15 @@
 ---
-title: Privacy Policy
+title: Privacy Policy - iOS Local Screen Sharing
 titleTemplate: false
 layout: doc
-description: Read the LocalScreen Privacy Policy, including how local network screen sharing, camera access, QR code scanning, and data handling work.
+description: Read the LocalScreen Privacy Policy for iOS local screen sharing, including iPhone screen sharing, iPad screen sharing, camera access, QR code scanning, and data handling.
 ---
 
-# LocalScreen Privacy Policy
+# LocalScreen Privacy Policy for iPhone and iPad Screen Sharing
 
 Effective date: 2026-02-28
 
-LocalScreen respects your privacy. This Privacy Policy explains how information is handled when you use LocalScreen and its related features.
+LocalScreen respects your privacy. This Privacy Policy explains how information is handled when you use LocalScreen for iOS local screen sharing, including iPhone screen sharing and iPad screen sharing.
 
 ## 1. Who we are
 
@@ -33,7 +33,7 @@ LocalScreen may request the following system permissions:
 
 ### Local Network
 
-Used to discover and connect to nearby devices for local screen sharing.
+Used to discover and connect to nearby iPhone and iPad devices for local screen sharing.
 
 ### Camera
 
@@ -45,7 +45,7 @@ You may voluntarily choose an image from your photo library to recognize a QR co
 
 ## 4. How data is transmitted
 
-Based on the current implementation, LocalScreen primarily transfers screen content between nearby devices over a local network.
+Based on the current implementation, LocalScreen primarily transfers iPhone and iPad screen content between nearby devices over a local network.
 We do not currently provide a developer-operated cloud server to relay your screen content or session data.
 
 ## 5. What we do not do

@@ -1,13 +1,13 @@
 ---
-title: LocalScreen
+title: LocalScreen - iOS 本地屏幕共享
 titleTemplate: false
 layout: home
-description: LocalScreen 是一款面向附近设备的实时本地屏幕共享应用。你可以在这里查看功能介绍、App Store 入口、技术支持和隐私政策。
+description: LocalScreen 是一款面向 iPhone 和 iPad 的 iOS 本地屏幕共享应用。你可以在这里查看 iPhone 屏幕共享、iPad 屏幕共享、技术支持和隐私政策。
 
 hero:
   name: LocalScreen
-  text: 面向附近设备的实时本地屏幕共享
-  tagline: 在本地网络中快速连接、实时查看与分享画面。不依赖云端中转，设置简单，连接直接。
+  text: 面向 iPhone 和 iPad 的 iOS 本地屏幕共享
+  tagline: 适用于 iPhone 屏幕共享、iPad 屏幕共享和私密的本地屏幕共享，画面传输留在你的局域网中。
   image:
     src: /localscreen-logo.png
     alt: LocalScreen logo
@@ -51,7 +51,7 @@ hero:
   </article>
   <article class="feature-card">
     <h2>适合演示与协作</h2>
-    <p>一台设备发起共享，多台附近设备即可同步观看，适合展示与监看场景。</p>
+    <p>适合 iPhone 屏幕共享和 iPad 屏幕共享，一台设备发起共享，多台附近设备即可同步观看。</p>
   </article>
 </section>
 
@@ -63,6 +63,17 @@ hero:
   </div>
   <div class="story-shot">
     <img src="/screenshots/iphone/1-zh.png" alt="LocalScreen 首页，包含发起共享、加入观看和扫码连接入口。" />
+  </div>
+</section>
+
+<section class="story-section story-section-reverse">
+  <div class="story-copy">
+    <p class="eyebrow">iPhone 和 iPad 屏幕共享</p>
+    <h2>在附近的 iPhone 和 iPad 之间进行 iOS 屏幕共享</h2>
+    <p>LocalScreen 适合本地演示、设备监看和轻量协作，突出 iPhone 屏幕共享、iPad 屏幕共享和局域网内实时传输。</p>
+  </div>
+  <div class="story-shot">
+    <img src="/screenshots/iphone/3-zh.png" alt="LocalScreen 的 iOS 本地屏幕共享广播界面。" />
   </div>
 </section>
 
@@ -103,12 +114,12 @@ hero:
   <div class="workflow-step">
     <span>01</span>
     <h2>选择共享角色</h2>
-    <p>以 Host 身份发起广播，或以 Viewer 身份加入会话。</p>
+    <p>以 Host 身份发起 iPhone 屏幕共享，或以 Viewer 身份加入会话。</p>
   </div>
   <div class="workflow-step">
     <span>02</span>
     <h2>扫码或输入 PIN</h2>
-    <p>通过二维码扫描或会话 PIN 在附近设备间建立连接。</p>
+    <p>通过二维码扫描或会话 PIN 在附近的 iPhone、iPad 设备间建立连接。</p>
   </div>
   <div class="workflow-step">
     <span>03</span>

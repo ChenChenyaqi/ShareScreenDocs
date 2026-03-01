@@ -1,15 +1,15 @@
 ---
-title: 隱私政策
+title: 隱私政策 - iOS 本地螢幕共享
 titleTemplate: false
 layout: doc
-description: 查看 LocalScreen 隱私政策，了解本地網路權限、相機權限、QR Code 辨識與資料處理方式。
+description: 查看 LocalScreen 隱私政策，了解 iOS 本地螢幕共享、iPhone 螢幕共享、iPad 螢幕共享、本地網路權限與資料處理方式。
 ---
 
-# LocalScreen 隱私政策
+# LocalScreen iPhone / iPad 螢幕共享隱私政策
 
 生效日期：2026-02-28
 
-LocalScreen 尊重並重視你的隱私。本隱私政策說明當你使用 LocalScreen 及相關功能時，我們會如何處理資訊。
+LocalScreen 尊重並重視你的隱私。本隱私政策說明當你使用 LocalScreen 進行 iOS 本地螢幕共享，包括 iPhone 螢幕共享與 iPad 螢幕共享時，我們會如何處理資訊。
 
 ## 1. 我們是誰
 
@@ -33,7 +33,7 @@ LocalScreen 可能會請求以下系統權限：
 
 ### 本地網路權限
 
-用於發現並連接附近裝置，以便進行區域網路內的螢幕共享。
+用於發現並連接附近裝置，以便進行 iPhone、iPad 之間的區域網路本地螢幕共享。
 
 ### 相機權限
 
@@ -45,7 +45,7 @@ LocalScreen 可能會請求以下系統權限：
 
 ## 4. 資料如何傳輸
 
-依照目前版本的實作，LocalScreen 的主要畫面傳輸發生在附近裝置之間的本地網路環境中。
+依照目前版本的實作，LocalScreen 的主要 iPhone 與 iPad 畫面傳輸發生在附近裝置之間的本地網路環境中。
 我們目前未提供用於轉發你的螢幕畫面或連線內容的開發者雲端伺服器。
 
 ## 5. 我們不會做什麼

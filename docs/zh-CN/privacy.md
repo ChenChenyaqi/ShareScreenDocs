@@ -1,15 +1,15 @@
 ---
-title: 隐私政策
+title: 隐私政策 - iOS 本地屏幕共享
 titleTemplate: false
 layout: doc
-description: 查看 LocalScreen 隐私政策，了解本地网络权限、相机权限、二维码识别和数据处理方式。
+description: 查看 LocalScreen 隐私政策，了解 iOS 本地屏幕共享、iPhone 屏幕共享、iPad 屏幕共享、本地网络权限和数据处理方式。
 ---
 
-# LocalScreen 隐私政策
+# LocalScreen iPhone / iPad 屏幕共享隐私政策
 
 生效日期：2026-02-28
 
-LocalScreen 尊重并重视你的隐私。本隐私政策说明当你使用 LocalScreen 及相关功能时，我们会如何处理信息。
+LocalScreen 尊重并重视你的隐私。本隐私政策说明当你使用 LocalScreen 进行 iOS 本地屏幕共享，包括 iPhone 屏幕共享和 iPad 屏幕共享时，我们会如何处理信息。
 
 ## 1. 我们是谁
 
@@ -33,7 +33,7 @@ LocalScreen 可能会请求以下系统权限：
 
 ### 本地网络权限
 
-用于发现并连接附近设备，以便进行局域网内的屏幕共享。
+用于发现并连接附近设备，以便进行 iPhone、iPad 之间的局域网本地屏幕共享。
 
 ### 相机权限
 
@@ -45,7 +45,7 @@ LocalScreen 可能会请求以下系统权限：
 
 ## 4. 数据如何传输
 
-根据当前版本的实现，LocalScreen 的主要画面传输发生在附近设备之间的本地网络环境中。
+根据当前版本的实现，LocalScreen 的主要 iPhone 和 iPad 画面传输发生在附近设备之间的本地网络环境中。
 我们当前未提供用于转发你的屏幕画面或连接内容的开发者云端服务器。
 
 ## 5. 我们不会做什么

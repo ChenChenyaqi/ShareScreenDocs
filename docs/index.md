@@ -1,13 +1,13 @@
 ---
-title: LocalScreen
+title: LocalScreen - iOS Screen Sharing for iPhone and iPad
 titleTemplate: false
 layout: home
-description: LocalScreen is a real-time local screen sharing app for nearby devices. View key features, App Store links, support details, and privacy information.
+description: LocalScreen is an iOS local screen sharing app for iPhone and iPad. Explore iPhone screen sharing, iPad screen sharing, support details, and privacy information.
 
 hero:
   name: LocalScreen
-  text: Real-time local screen sharing for nearby devices
-  tagline: Share, monitor, and present instantly over your local network. No cloud relay and no complicated setup.
+  text: iOS local screen sharing for iPhone and iPad
+  tagline: Use LocalScreen for iPhone screen sharing, iPad screen sharing, and private local screen sharing on your own network.
   image:
     src: /localscreen-logo.png
     alt: LocalScreen logo
@@ -51,7 +51,7 @@ hero:
   </article>
   <article class="feature-card">
     <h2>Built for collaboration</h2>
-    <p>One host can share to multiple nearby viewers for demos, teamwork, and monitoring.</p>
+    <p>Built for iPhone and iPad screen sharing, with one host streaming to multiple nearby viewers.</p>
   </article>
 </section>
 
@@ -63,6 +63,17 @@ hero:
   </div>
   <div class="story-shot">
     <img src="/screenshots/iphone/1-en.png" alt="LocalScreen home screen with Host, Viewer, and Scan to Connect options." />
+  </div>
+</section>
+
+<section class="story-section story-section-reverse">
+  <div class="story-copy">
+    <p class="eyebrow">iPhone and iPad screen sharing</p>
+    <h2>Use iOS screen sharing across nearby iPhone and iPad devices</h2>
+    <p>LocalScreen is designed for iPhone screen sharing and iPad screen sharing in local presentations, device monitoring, and lightweight collaboration.</p>
+  </div>
+  <div class="story-shot">
+    <img src="/screenshots/iphone/3-en.png" alt="LocalScreen screen broadcast interface for iOS local screen sharing." />
   </div>
 </section>
 
@@ -103,12 +114,12 @@ hero:
   <div class="workflow-step">
     <span>01</span>
     <h2>Start as Host</h2>
-    <p>Choose Host and begin screen broadcasting from your iPhone.</p>
+    <p>Choose Host and begin iPhone screen sharing or iOS screen broadcasting from your device.</p>
   </div>
   <div class="workflow-step">
     <span>02</span>
     <h2>Connect nearby</h2>
-    <p>Use QR scanning or a session PIN to pair with another device.</p>
+    <p>Use QR scanning or a session PIN to pair with a nearby iPhone or iPad.</p>
   </div>
   <div class="workflow-step">
     <span>03</span>

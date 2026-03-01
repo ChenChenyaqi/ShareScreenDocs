@@ -1,15 +1,15 @@
 ---
-title: Support
+title: Support - iOS Local Screen Sharing Help
 titleTemplate: false
 layout: doc
-description: Contact LocalScreen support for help with local network screen sharing, permissions, connection issues, and App Store support requests.
+description: Contact LocalScreen support for iOS local screen sharing help, including iPhone screen sharing, iPad screen sharing, permissions, and connection issues.
 ---
 
-# LocalScreen Support
+# LocalScreen Support for iPhone and iPad Screen Sharing
 
 Thank you for using LocalScreen.
 
-LocalScreen is a real-time screen sharing app designed for nearby devices on a local network. It focuses on low-latency sharing without requiring a cloud account or internet-based relay service.
+LocalScreen is an iOS local screen sharing app designed for nearby iPhone and iPad devices. It focuses on low-latency local screen sharing without requiring a cloud account or internet-based relay service.
 
 ## Contact
 
@@ -23,10 +23,10 @@ If you need help or want to send feedback, please contact:
 You can contact support for issues such as:
 
 - Nearby devices are not discovered
-- Screen sharing cannot be started
+- iPhone or iPad screen sharing cannot be started
 - Connection fails after entering the session code
 - Local Network or Camera permission issues
-- Crashes, lag, black screen, or streaming delay
+- Crashes, lag, black screen, or local screen sharing delay
 - Suggestions about usability, localization, or compatibility
 
 ## Helpful information to include
@@ -48,11 +48,11 @@ Make sure both devices have Wi-Fi and Bluetooth enabled, and that LocalScreen ha
 
 ### 2. Why can't the viewer see the screen after sharing starts?
 
-Make sure the host selected LocalScreen in the iOS screen broadcast picker and successfully started the broadcast session.
+Make sure the host selected LocalScreen in the iOS screen broadcast picker and successfully started the broadcast session for iPhone or iPad screen sharing.
 
 ### 3. Does LocalScreen send my screen content over the internet?
 
-No. Based on the current product design, LocalScreen is primarily intended for device-to-device transfer on a local network and does not rely on a developer-operated cloud relay service.
+No. Based on the current product design, LocalScreen is primarily intended for iOS local screen sharing between nearby devices on a local network and does not rely on a developer-operated cloud relay service.
 
 ### 4. Where can I read the privacy policy?
 
