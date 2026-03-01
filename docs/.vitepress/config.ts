@@ -6,10 +6,10 @@ export default defineConfig({
   base: "/ShareScreenDocs/",
   cleanUrls: true,
   head: [
-    ["meta", { name: "theme-color", content: "#f5f1e8" }],
+    ["meta", { name: "theme-color", content: "#f6f3eb" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:title", content: "LocalScreen" }],
-    ["meta", { property: "og:description", content: "Support and privacy information for LocalScreen." }]
+    ["meta", { property: "og:description", content: "LocalScreen product overview, support information, and privacy policy." }]
   ],
   themeConfig: {
     logo: { src: "/localscreen-logo.png", alt: "LocalScreen" },
@@ -19,12 +19,12 @@ export default defineConfig({
     root: {
       label: "English",
       lang: "en",
-      link: "/en/",
+      link: "/",
       themeConfig: {
         nav: [
-          { text: "Home", link: "/en/" },
-          { text: "Support", link: "/en/support" },
-          { text: "Privacy Policy", link: "/en/privacy" },
+          { text: "Home", link: "/" },
+          { text: "Support", link: "/support" },
+          { text: "Privacy Policy", link: "/privacy" },
           { text: "GitHub", link: "https://github.com/ChenChenyaqi" }
         ],
         footer: {

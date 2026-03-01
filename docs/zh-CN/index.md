@@ -5,29 +5,124 @@ layout: home
 
 hero:
   name: LocalScreen
-  text: 本地网络屏幕共享
-  tagline: LocalScreen iOS 应用的技术支持与隐私政策公开页面。
+  text: 面向附近设备的实时本地屏幕共享
+  tagline: 在本地网络中快速连接、实时查看与分享画面。不依赖云端中转，设置简单，连接直接。
   image:
     src: /localscreen-logo.png
     alt: LocalScreen logo
   actions:
     - theme: brand
+      text: 查看功能
+      link: "#features"
+    - theme: alt
       text: 技术支持
       link: /zh-CN/support
-    - theme: alt
-      text: 隐私政策
-      link: /zh-CN/privacy
-
-features:
-  - title: 附近设备直连
-    details: 面向附近设备的本地网络传输场景，不依赖开发者云端中转。
-  - title: 权限用途明确
-    details: 当前页面明确说明本地网络、相机与照片选择器的使用目的。
-  - title: 公开稳定链接
-    details: 用于 App Store 上架审核和用户查询的长期公开链接。
 ---
 
-<div class="site-note">
-技术支持邮箱：<a href="mailto:localscreen423@163.com">localscreen423@163.com</a><br>
-GitHub：<a href="https://github.com/ChenChenyaqi">ChenChenyaqi</a>
+<div class="marketing-hero-visual" aria-hidden="true">
+  <img class="shot shot-a" src="/screenshots/iphone/1-zh.png" alt="" />
+  <img class="shot shot-b" src="/screenshots/iphone/3-zh.png" alt="" />
+  <img class="shot shot-c" src="/screenshots/iphone/5-zh.png" alt="" />
 </div>
+
+<section class="trust-strip">
+  <span>100% 本地传输</span>
+  <span>无需云端中转</span>
+  <span>二维码 / PIN 连接</span>
+  <span>支持多设备观看</span>
+</section>
+
+<section id="features" class="feature-grid">
+  <article class="feature-card">
+    <h2>一键开始共享</h2>
+    <p>打开应用即可选择发起共享或加入观看，操作路径直接清晰。</p>
+  </article>
+  <article class="feature-card">
+    <h2>本地且私密</h2>
+    <p>画面主要在局域网设备之间传输，不依赖开发者云端中转服务。</p>
+  </article>
+  <article class="feature-card">
+    <h2>安全连接方式</h2>
+    <p>通过二维码或 6 位 PIN 快速配对，适合附近设备之间的受控连接。</p>
+  </article>
+  <article class="feature-card">
+    <h2>适合演示与协作</h2>
+    <p>一台设备发起共享，多台附近设备即可同步观看，适合展示与监看场景。</p>
+  </article>
+</section>
+
+<section class="story-section">
+  <div class="story-copy">
+    <p class="eyebrow">快速开始</p>
+    <h2>打开应用，选择共享或观看</h2>
+    <p>作为 Host 发起共享，或作为 Viewer 加入附近会话，几步内即可完成连接。</p>
+  </div>
+  <div class="story-shot">
+    <img src="/screenshots/iphone/1-zh.png" alt="LocalScreen 首页，包含发起共享、加入观看和扫码连接入口。" />
+  </div>
+</section>
+
+<section class="story-section story-section-reverse">
+  <div class="story-copy">
+    <p class="eyebrow">本地且私密</p>
+    <h2>画面传输留在你的本地网络中</h2>
+    <p>适合附近设备之间的实时共享，无需蜂窝网络，也不依赖云端服务器中转。</p>
+  </div>
+  <div class="story-shot">
+    <img src="/screenshots/iphone/2-zh.png" alt="LocalScreen 浏览界面，强调完全本地和私密传输。" />
+  </div>
+</section>
+
+<section class="story-section">
+  <div class="story-copy">
+    <p class="eyebrow">安全连接</p>
+    <h2>通过二维码或 PIN 建立会话</h2>
+    <p>用扫码或会话码快速连接附近设备，建立简单且明确的共享关系。</p>
+  </div>
+  <div class="story-shot">
+    <img src="/screenshots/iphone/4-zh.png" alt="LocalScreen 共享界面，展示会话二维码和 PIN 码。" />
+  </div>
+</section>
+
+<section class="story-section story-section-reverse">
+  <div class="story-copy">
+    <p class="eyebrow">多设备观看</p>
+    <h2>一个共享端，多个观看端</h2>
+    <p>适合本地演示、拍摄监看和轻量团队协作，让附近设备同时看到同一画面。</p>
+  </div>
+  <div class="story-shot">
+    <img src="/screenshots/iphone/5-zh.png" alt="LocalScreen 观看端设备列表，展示多个可连接设备。" />
+  </div>
+</section>
+
+<section class="workflow">
+  <div class="workflow-step">
+    <span>01</span>
+    <h2>选择共享角色</h2>
+    <p>以 Host 身份发起广播，或以 Viewer 身份加入会话。</p>
+  </div>
+  <div class="workflow-step">
+    <span>02</span>
+    <h2>扫码或输入 PIN</h2>
+    <p>通过二维码扫描或会话 PIN 在附近设备间建立连接。</p>
+  </div>
+  <div class="workflow-step">
+    <span>03</span>
+    <h2>开始实时观看</h2>
+    <p>连接建立后即可在本地网络中实时查看共享画面。</p>
+  </div>
+</section>
+
+<section class="site-note site-note-marketing">
+  <div>
+    <p class="eyebrow">技术支持</p>
+    <h2>需要帮助或查看合规信息？</h2>
+    <p>技术支持与隐私政策页面将长期公开，便于用户查阅和 App Store 审核。</p>
+  </div>
+  <div class="note-actions">
+    <a class="note-link" href="./support">技术支持</a>
+    <a class="note-link" href="./privacy">隐私政策</a>
+    <a class="note-link" href="mailto:localscreen423@163.com">localscreen423@163.com</a>
+    <a class="note-link" href="https://github.com/ChenChenyaqi">GitHub</a>
+  </div>
+</section>
