@@ -2,6 +2,7 @@
 title: LocalScreen
 titleTemplate: false
 layout: home
+description: LocalScreen 是一款專為附近裝置打造的即時本地螢幕共享 App。你可以在這裡查看功能介紹、App Store 入口、技術支援與隱私政策。
 
 hero:
   name: LocalScreen

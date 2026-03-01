@@ -2,6 +2,7 @@
 title: LocalScreen
 titleTemplate: false
 layout: home
+description: LocalScreen is a real-time local screen sharing app for nearby devices. View key features, App Store links, support details, and privacy information.
 
 hero:
   name: LocalScreen

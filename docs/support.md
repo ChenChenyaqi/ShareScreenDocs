@@ -2,6 +2,7 @@
 title: Support
 titleTemplate: false
 layout: doc
+description: Contact LocalScreen support for help with local network screen sharing, permissions, connection issues, and App Store support requests.
 ---
 
 # LocalScreen Support

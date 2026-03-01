@@ -2,6 +2,7 @@
 title: 技術支援
 titleTemplate: false
 layout: doc
+description: 取得 LocalScreen 技術支援，了解本地網路共享、權限問題、連線失敗與黑畫面等常見問題的處理方式。
 ---
 
 # LocalScreen 技術支援

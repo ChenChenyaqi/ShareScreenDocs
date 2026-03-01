@@ -2,6 +2,10 @@
 title: English Support Redirect
 titleTemplate: false
 layout: doc
+head:
+  - - meta
+    - name: robots
+      content: noindex, follow
 ---
 
 <script>

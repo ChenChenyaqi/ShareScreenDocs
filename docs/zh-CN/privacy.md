@@ -2,6 +2,7 @@
 title: 隐私政策
 titleTemplate: false
 layout: doc
+description: 查看 LocalScreen 隐私政策，了解本地网络权限、相机权限、二维码识别和数据处理方式。
 ---
 
 # LocalScreen 隐私政策

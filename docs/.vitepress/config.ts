@@ -1,16 +1,117 @@
 import { defineConfig } from "vitepress";
 
+const SITE_URL = "https://chenchenyaqi.github.io/ShareScreenDocs";
+
+function resolveCanonicalPath(relativePath: string): string {
+  if (relativePath === "index.md") {
+    return "/";
+  }
+
+  if (relativePath.endsWith("/index.md")) {
+    return `/${relativePath.slice(0, -"index.md".length)}`;
+  }
+
+  if (relativePath.endsWith(".md")) {
+    return `/${relativePath.slice(0, -".md".length)}`;
+  }
+
+  return `/${relativePath}`;
+}
+
+function resolveAlternateLinks(canonicalPath: string) {
+  const localeMap: Record<string, string> = {
+    "/": "/",
+    "/support": "/support",
+    "/privacy": "/privacy",
+    "/zh-CN/": "/zh-CN/",
+    "/zh-CN/support": "/zh-CN/support",
+    "/zh-CN/privacy": "/zh-CN/privacy",
+    "/zh-TW/": "/zh-TW/",
+    "/zh-TW/support": "/zh-TW/support",
+    "/zh-TW/privacy": "/zh-TW/privacy"
+  };
+
+  if (!(canonicalPath in localeMap)) {
+    return [];
+  }
+
+  const key = canonicalPath
+    .replace(/^\/zh-CN/, "")
+    .replace(/^\/zh-TW/, "") || "/";
+
+  const alternates = [
+    ["link", { rel: "alternate", hreflang: "en", href: `${SITE_URL}${key}` }],
+    ["link", { rel: "alternate", hreflang: "zh-CN", href: `${SITE_URL}/zh-CN${key === "/" ? "/" : key}` }],
+    ["link", { rel: "alternate", hreflang: "zh-TW", href: `${SITE_URL}/zh-TW${key === "/" ? "/" : key}` }],
+    ["link", { rel: "alternate", hreflang: "x-default", href: `${SITE_URL}${key}` }]
+  ];
+
+  return alternates;
+}
+
 export default defineConfig({
   title: "LocalScreen",
-  description: "LocalScreen support and privacy information",
+  description: "LocalScreen is a real-time local screen sharing app for nearby devices, with support and privacy information in English, Simplified Chinese, and Traditional Chinese.",
   base: "/ShareScreenDocs/",
   cleanUrls: true,
+  sitemap: {
+    hostname: SITE_URL
+  },
   head: [
     ["meta", { name: "theme-color", content: "#f6f3eb" }],
+    ["meta", { name: "robots", content: "index, follow" }],
+    ["meta", { name: "author", content: "LocalScreen" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:title", content: "LocalScreen" }],
-    ["meta", { property: "og:description", content: "LocalScreen product overview, support information, and privacy policy." }]
+    ["meta", { property: "og:site_name", content: "LocalScreen" }],
+    ["meta", { property: "og:description", content: "LocalScreen product overview, support information, and privacy policy." }],
+    ["meta", { property: "og:image", content: `${SITE_URL}/localscreen-logo.png` }],
+    ["meta", { property: "og:image:alt", content: "LocalScreen logo" }],
+    ["meta", { name: "twitter:card", content: "summary" }],
+    ["meta", { name: "twitter:title", content: "LocalScreen" }],
+    ["meta", { name: "twitter:description", content: "LocalScreen product overview, support information, and privacy policy." }],
+    ["meta", { name: "twitter:image", content: `${SITE_URL}/localscreen-logo.png` }],
+    [
+      "script",
+      { type: "application/ld+json" },
+      JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        name: "LocalScreen",
+        applicationCategory: "UtilitiesApplication",
+        operatingSystem: "iOS",
+        inLanguage: ["en", "zh-CN", "zh-TW"],
+        description: "LocalScreen is a real-time local screen sharing app for nearby devices.",
+        url: SITE_URL,
+        downloadUrl: "https://apps.apple.com/us/app/localscreen-share/id6759612385",
+        image: `${SITE_URL}/localscreen-logo.png`,
+        author: {
+          "@type": "Person",
+          name: "ChenChenyaqi",
+          url: "https://github.com/ChenChenyaqi"
+        },
+        offers: {
+          "@type": "Offer",
+          price: "0",
+          priceCurrency: "USD"
+        }
+      })
+    ]
   ],
+  transformHead({ pageData }) {
+    const canonicalPath = resolveCanonicalPath(pageData.relativePath);
+    const head = [
+      ["link", { rel: "canonical", href: `${SITE_URL}${canonicalPath}` }],
+      ["meta", { property: "og:url", content: `${SITE_URL}${canonicalPath}` }]
+    ] as [string, Record<string, string>, string?][];
+
+    if (pageData.relativePath.startsWith("en/")) {
+      head.push(["meta", { name: "robots", content: "noindex, follow" }]);
+      return head;
+    }
+
+    return head.concat(resolveAlternateLinks(canonicalPath) as [string, Record<string, string>, string?][]);
+  },
   themeConfig: {
     logo: { src: "/localscreen-logo.png", alt: "LocalScreen" },
     socialLinks: [{ icon: "github", link: "https://github.com/ChenChenyaqi" }]

@@ -2,6 +2,7 @@
 title: 技术支持
 titleTemplate: false
 layout: doc
+description: 获取 LocalScreen 技术支持，了解本地网络共享、权限问题、连接失败、黑屏卡顿等常见问题的处理方式。
 ---
 
 # LocalScreen 技术支持

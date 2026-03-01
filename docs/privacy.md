@@ -2,6 +2,7 @@
 title: Privacy Policy
 titleTemplate: false
 layout: doc
+description: Read the LocalScreen Privacy Policy, including how local network screen sharing, camera access, QR code scanning, and data handling work.
 ---
 
 # LocalScreen Privacy Policy

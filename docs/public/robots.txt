@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chenchenyaqi.github.io/ShareScreenDocs/sitemap.xml

@@ -2,6 +2,7 @@
 title: 隱私政策
 titleTemplate: false
 layout: doc
+description: 查看 LocalScreen 隱私政策，了解本地網路權限、相機權限、QR Code 辨識與資料處理方式。
 ---
 
 # LocalScreen 隱私政策
