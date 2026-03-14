@@ -1,16 +1,16 @@
 ---
-title: LocalScreen - iOS 本地螢幕共享
+title: CamScreen - iOS 本地螢幕共享
 titleTemplate: false
 layout: home
-description: LocalScreen 是一款面向 iPhone 和 iPad 的 iOS 本地螢幕共享 App。你可以在這裡查看 iPhone 螢幕共享、iPad 螢幕共享、技術支援與隱私政策。
+description: CamScreen 是一款面向 iPhone 和 iPad 的 iOS 本地螢幕共享 App。你可以在這裡查看 iPhone 螢幕共享、iPad 螢幕共享、技術支援與隱私政策。
 
 hero:
-  name: LocalScreen
+  name: CamScreen
   text: 面向 iPhone 和 iPad 的 iOS 本地螢幕共享
   tagline: 適用於 iPhone 螢幕共享、iPad 螢幕共享與私密的本地螢幕共享，畫面傳輸留在你的區域網路中。
   image:
     src: /localscreen-logo.png
-    alt: LocalScreen logo
+    alt: CamScreen logo
   actions:
     - theme: brand
       text: 查看功能
@@ -62,7 +62,7 @@ hero:
     <p>作為 Host 發起共享，或作為 Viewer 加入附近會話，幾步內即可完成連線。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/1-zh-HK.png" alt="LocalScreen 首頁，包含發起共享、加入觀看與掃碼連線入口。" />
+    <img src="/screenshots/iphone/1-zh-HK.png" alt="CamScreen 首頁，包含發起共享、加入觀看與掃碼連線入口。" />
   </div>
 </section>
 
@@ -70,10 +70,10 @@ hero:
   <div class="story-copy">
     <p class="eyebrow">iPhone 和 iPad 螢幕共享</p>
     <h2>在附近的 iPhone 和 iPad 之間進行 iOS 螢幕共享</h2>
-    <p>LocalScreen 適合本地簡報、裝置監看與輕量協作，突出 iPhone 螢幕共享、iPad 螢幕共享與區域網路即時傳輸。</p>
+    <p>CamScreen 適合本地簡報、裝置監看與輕量協作，突出 iPhone 螢幕共享、iPad 螢幕共享與區域網路即時傳輸。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/3-zh-HK.png" alt="LocalScreen 的 iOS 本地螢幕共享廣播畫面。" />
+    <img src="/screenshots/iphone/3-zh-HK.png" alt="CamScreen 的 iOS 本地螢幕共享廣播畫面。" />
   </div>
 </section>
 
@@ -84,7 +84,7 @@ hero:
     <p>適合附近裝置之間的即時共享，不需行動網路，也不依賴雲端伺服器中轉。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/2-zh-HK.png" alt="LocalScreen 瀏覽畫面，強調完全本地與私密傳輸。" />
+    <img src="/screenshots/iphone/2-zh-HK.png" alt="CamScreen 瀏覽畫面，強調完全本地與私密傳輸。" />
   </div>
 </section>
 
@@ -95,7 +95,7 @@ hero:
     <p>以掃碼或會話碼快速連接附近裝置，建立簡單且明確的共享關係。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/4-zh-HK.png" alt="LocalScreen 共享畫面，顯示會話 QR Code 與 PIN 碼。" />
+    <img src="/screenshots/iphone/4-zh-HK.png" alt="CamScreen 共享畫面，顯示會話 QR Code 與 PIN 碼。" />
   </div>
 </section>
 
@@ -106,7 +106,7 @@ hero:
     <p>適合本地簡報、拍攝監看與輕量協作，讓附近裝置同時看到同一個畫面。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/5-zh-HK.png" alt="LocalScreen 觀看端裝置列表，顯示多個可連線的附近裝置。" />
+    <img src="/screenshots/iphone/5-zh-HK.png" alt="CamScreen 觀看端裝置列表，顯示多個可連線的附近裝置。" />
   </div>
 </section>
 

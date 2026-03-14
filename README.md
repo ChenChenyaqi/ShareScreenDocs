@@ -1,12 +1,12 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md)
 
 <p align="center">
-  <img src="./docs/public/localscreen-logo.png" alt="LocalScreen logo" width="104" />
+  <img src="./docs/public/localscreen-logo.png" alt="CamScreen logo" width="104" />
 </p>
 
-# LocalScreen Docs
+# CamScreen Docs
 
-Marketing, support, and privacy website for `LocalScreen`, built with VitePress and deployed to GitHub Pages.
+Marketing, support, and privacy website for `CamScreen`, built with VitePress and deployed to GitHub Pages.
 
 Live site: `https://chenchenyaqi.github.io/ShareScreenDocs/`
 

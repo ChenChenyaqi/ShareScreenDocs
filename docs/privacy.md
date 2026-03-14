@@ -2,23 +2,23 @@
 title: Privacy Policy - iOS Local Screen Sharing
 titleTemplate: false
 layout: doc
-description: Read the LocalScreen Privacy Policy for iOS local screen sharing, including iPhone screen sharing, iPad screen sharing, camera access, QR code scanning, and data handling.
+description: Read the CamScreen Privacy Policy for iOS local screen sharing, including iPhone screen sharing, iPad screen sharing, camera access, QR code scanning, and data handling.
 ---
 
-# LocalScreen Privacy Policy for iPhone and iPad Screen Sharing
+# CamScreen Privacy Policy for iPhone and iPad Screen Sharing
 
 Effective date: 2026-02-28
 
-LocalScreen respects your privacy. This Privacy Policy explains how information is handled when you use LocalScreen for iOS local screen sharing, including iPhone screen sharing and iPad screen sharing.
+CamScreen respects your privacy. This Privacy Policy explains how information is handled when you use CamScreen for iOS local screen sharing, including iPhone screen sharing and iPad screen sharing.
 
 ## 1. Who we are
 
-LocalScreen is currently provided and maintained by an independent developer.
+CamScreen is currently provided and maintained by an independent developer.
 If you have questions about this Privacy Policy, contact: `localscreen423@163.com`
 
 ## 2. Information we handle
 
-Based on the current version of the app, LocalScreen does not require account registration and does not actively collect personal identity information such as your name, phone number, email address, contacts, or precise location through a developer-operated server.
+Based on the current version of the app, CamScreen does not require account registration and does not actively collect personal identity information such as your name, phone number, email address, contacts, or precise location through a developer-operated server.
 
 While you use the app, the following information may be processed locally on your device or during local network connections:
 
@@ -29,7 +29,7 @@ While you use the app, the following information may be processed locally on you
 
 ## 3. Permissions
 
-LocalScreen may request the following system permissions:
+CamScreen may request the following system permissions:
 
 ### Local Network
 
@@ -45,7 +45,7 @@ You may voluntarily choose an image from your photo library to recognize a QR co
 
 ## 4. How data is transmitted
 
-Based on the current implementation, LocalScreen primarily transfers iPhone and iPad screen content between nearby devices over a local network.
+Based on the current implementation, CamScreen primarily transfers iPhone and iPad screen content between nearby devices over a local network.
 We do not currently provide a developer-operated cloud server to relay your screen content or session data.
 
 ## 5. What we do not do
@@ -65,11 +65,11 @@ If new third-party services are added in the future and change how data is handl
 
 ## 7. Data retention
 
-LocalScreen is primarily designed for real-time connection and transmission. Except for necessary caching that may be performed by the operating system, device, or platform itself, we do not currently retain your screen sharing content or account data on a developer-operated server.
+CamScreen is primarily designed for real-time connection and transmission. Except for necessary caching that may be performed by the operating system, device, or platform itself, we do not currently retain your screen sharing content or account data on a developer-operated server.
 
 ## 8. Children's privacy
 
-LocalScreen is not specifically directed to children. If you are a parent or guardian and believe a minor has provided information that should not have been provided, please contact us by email.
+CamScreen is not specifically directed to children. If you are a parent or guardian and believe a minor has provided information that should not have been provided, please contact us by email.
 
 ## 9. Your choices
 

@@ -2,14 +2,14 @@
 title: Support - iOS Local Screen Sharing Help
 titleTemplate: false
 layout: doc
-description: Contact LocalScreen support for iOS local screen sharing help, including iPhone screen sharing, iPad screen sharing, permissions, and connection issues.
+description: Contact CamScreen support for iOS local screen sharing help, including iPhone screen sharing, iPad screen sharing, permissions, and connection issues.
 ---
 
-# LocalScreen Support for iPhone and iPad Screen Sharing
+# CamScreen Support for iPhone and iPad Screen Sharing
 
-Thank you for using LocalScreen.
+Thank you for using CamScreen.
 
-LocalScreen is an iOS local screen sharing app designed for nearby iPhone and iPad devices. It focuses on low-latency local screen sharing without requiring a cloud account or internet-based relay service.
+CamScreen is an iOS local screen sharing app designed for nearby iPhone and iPad devices. It focuses on low-latency local screen sharing without requiring a cloud account or internet-based relay service.
 
 ## Contact
 
@@ -44,15 +44,15 @@ To help diagnose the issue faster, include:
 
 ### 1. Why can't I find nearby devices?
 
-Make sure both devices have Wi-Fi and Bluetooth enabled, and that LocalScreen has permission to access the local network.
+Make sure both devices have Wi-Fi and Bluetooth enabled, and that CamScreen has permission to access the local network.
 
 ### 2. Why can't the viewer see the screen after sharing starts?
 
-Make sure the host selected LocalScreen in the iOS screen broadcast picker and successfully started the broadcast session for iPhone or iPad screen sharing.
+Make sure the host selected CamScreen in the iOS screen broadcast picker and successfully started the broadcast session for iPhone or iPad screen sharing.
 
-### 3. Does LocalScreen send my screen content over the internet?
+### 3. Does CamScreen send my screen content over the internet?
 
-No. Based on the current product design, LocalScreen is primarily intended for iOS local screen sharing between nearby devices on a local network and does not rely on a developer-operated cloud relay service.
+No. Based on the current product design, CamScreen is primarily intended for iOS local screen sharing between nearby devices on a local network and does not rely on a developer-operated cloud relay service.
 
 ### 4. Where can I read the privacy policy?
 

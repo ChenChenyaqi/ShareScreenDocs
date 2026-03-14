@@ -1,16 +1,16 @@
 ---
-title: LocalScreen - iOS 本地屏幕共享
+title: CamScreen - iOS 本地屏幕共享
 titleTemplate: false
 layout: home
-description: LocalScreen 是一款面向 iPhone 和 iPad 的 iOS 本地屏幕共享应用。你可以在这里查看 iPhone 屏幕共享、iPad 屏幕共享、技术支持和隐私政策。
+description: CamScreen 是一款面向 iPhone 和 iPad 的 iOS 本地屏幕共享应用。你可以在这里查看 iPhone 屏幕共享、iPad 屏幕共享、技术支持和隐私政策。
 
 hero:
-  name: LocalScreen
+  name: CamScreen
   text: 面向 iPhone 和 iPad 的 iOS 本地屏幕共享
   tagline: 适用于 iPhone 屏幕共享、iPad 屏幕共享和私密的本地屏幕共享，画面传输留在你的局域网中。
   image:
     src: /localscreen-logo.png
-    alt: LocalScreen logo
+    alt: CamScreen logo
   actions:
     - theme: brand
       text: 查看功能
@@ -62,7 +62,7 @@ hero:
     <p>作为 Host 发起共享，或作为 Viewer 加入附近会话，几步内即可完成连接。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/1-zh.png" alt="LocalScreen 首页，包含发起共享、加入观看和扫码连接入口。" />
+    <img src="/screenshots/iphone/1-zh.png" alt="CamScreen 首页，包含发起共享、加入观看和扫码连接入口。" />
   </div>
 </section>
 
@@ -70,10 +70,10 @@ hero:
   <div class="story-copy">
     <p class="eyebrow">iPhone 和 iPad 屏幕共享</p>
     <h2>在附近的 iPhone 和 iPad 之间进行 iOS 屏幕共享</h2>
-    <p>LocalScreen 适合本地演示、设备监看和轻量协作，突出 iPhone 屏幕共享、iPad 屏幕共享和局域网内实时传输。</p>
+    <p>CamScreen 适合本地演示、设备监看和轻量协作，突出 iPhone 屏幕共享、iPad 屏幕共享和局域网内实时传输。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/3-zh.png" alt="LocalScreen 的 iOS 本地屏幕共享广播界面。" />
+    <img src="/screenshots/iphone/3-zh.png" alt="CamScreen 的 iOS 本地屏幕共享广播界面。" />
   </div>
 </section>
 
@@ -84,7 +84,7 @@ hero:
     <p>适合附近设备之间的实时共享，无需蜂窝网络，也不依赖云端服务器中转。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/2-zh.png" alt="LocalScreen 浏览界面，强调完全本地和私密传输。" />
+    <img src="/screenshots/iphone/2-zh.png" alt="CamScreen 浏览界面，强调完全本地和私密传输。" />
   </div>
 </section>
 
@@ -95,7 +95,7 @@ hero:
     <p>用扫码或会话码快速连接附近设备，建立简单且明确的共享关系。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/4-zh.png" alt="LocalScreen 共享界面，展示会话二维码和 PIN 码。" />
+    <img src="/screenshots/iphone/4-zh.png" alt="CamScreen 共享界面，展示会话二维码和 PIN 码。" />
   </div>
 </section>
 
@@ -106,7 +106,7 @@ hero:
     <p>适合本地演示、拍摄监看和轻量团队协作，让附近设备同时看到同一画面。</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/5-zh.png" alt="LocalScreen 观看端设备列表，展示多个可连接设备。" />
+    <img src="/screenshots/iphone/5-zh.png" alt="CamScreen 观看端设备列表，展示多个可连接设备。" />
   </div>
 </section>
 

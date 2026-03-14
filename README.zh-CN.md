@@ -1,12 +1,12 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md)
 
 <p align="center">
-  <img src="./docs/public/localscreen-logo.png" alt="LocalScreen logo" width="104" />
+  <img src="./docs/public/localscreen-logo.png" alt="CamScreen logo" width="104" />
 </p>
 
-# LocalScreen 文档站
+# CamScreen 文档站
 
-这是 `LocalScreen` 的营销、技术支持和隐私政策网站项目，基于 VitePress 构建，并部署到 GitHub Pages。
+这是 `CamScreen` 的营销、技术支持和隐私政策网站项目，基于 VitePress 构建，并部署到 GitHub Pages。
 
 在线地址：`https://chenchenyaqi.github.io/ShareScreenDocs/`
 

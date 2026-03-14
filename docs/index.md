@@ -1,16 +1,16 @@
 ---
-title: LocalScreen - iOS Screen Sharing for iPhone and iPad
+title: CamScreen - iOS Screen Sharing for iPhone and iPad
 titleTemplate: false
 layout: home
-description: LocalScreen is an iOS local screen sharing app for iPhone and iPad. Explore iPhone screen sharing, iPad screen sharing, support details, and privacy information.
+description: CamScreen is an iOS local screen sharing app for iPhone and iPad. Explore iPhone screen sharing, iPad screen sharing, support details, and privacy information.
 
 hero:
-  name: LocalScreen
+  name: CamScreen
   text: iOS local screen sharing for iPhone and iPad
-  tagline: Use LocalScreen for iPhone screen sharing, iPad screen sharing, and private local screen sharing on your own network.
+  tagline: Use CamScreen for iPhone screen sharing, iPad screen sharing, and private local screen sharing on your own network.
   image:
     src: /localscreen-logo.png
-    alt: LocalScreen logo
+    alt: CamScreen logo
   actions:
     - theme: brand
       text: Explore Features
@@ -62,7 +62,7 @@ hero:
     <p>Start as a host to broadcast your screen, or join as a viewer to watch nearby devices in real time.</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/1-en.png" alt="LocalScreen home screen with Host, Viewer, and Scan to Connect options." />
+    <img src="/screenshots/iphone/1-en.png" alt="CamScreen home screen with Host, Viewer, and Scan to Connect options." />
   </div>
 </section>
 
@@ -70,10 +70,10 @@ hero:
   <div class="story-copy">
     <p class="eyebrow">iPhone and iPad screen sharing</p>
     <h2>Use iOS screen sharing across nearby iPhone and iPad devices</h2>
-    <p>LocalScreen is designed for iPhone screen sharing and iPad screen sharing in local presentations, device monitoring, and lightweight collaboration.</p>
+    <p>CamScreen is designed for iPhone screen sharing and iPad screen sharing in local presentations, device monitoring, and lightweight collaboration.</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/3-en.png" alt="LocalScreen screen broadcast interface for iOS local screen sharing." />
+    <img src="/screenshots/iphone/3-en.png" alt="CamScreen screen broadcast interface for iOS local screen sharing." />
   </div>
 </section>
 
@@ -81,10 +81,10 @@ hero:
   <div class="story-copy">
     <p class="eyebrow">Local and private</p>
     <h2>Keep screen sharing on your own network</h2>
-    <p>LocalScreen is designed for nearby device-to-device transfer, avoiding cellular data and cloud relay services.</p>
+    <p>CamScreen is designed for nearby device-to-device transfer, avoiding cellular data and cloud relay services.</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/2-en.png" alt="LocalScreen browsing screen emphasizing 100% local and private sharing." />
+    <img src="/screenshots/iphone/2-en.png" alt="CamScreen browsing screen emphasizing 100% local and private sharing." />
   </div>
 </section>
 
@@ -95,7 +95,7 @@ hero:
     <p>Session-based connection keeps access intentional and simple when devices are nearby.</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/4-en.png" alt="LocalScreen host screen showing a QR code and session PIN." />
+    <img src="/screenshots/iphone/4-en.png" alt="CamScreen host screen showing a QR code and session PIN." />
   </div>
 </section>
 
@@ -106,7 +106,7 @@ hero:
     <p>Ideal for local presentations, camera monitoring, and lightweight team collaboration.</p>
   </div>
   <div class="story-shot">
-    <img src="/screenshots/iphone/5-en.png" alt="LocalScreen viewer screen listing multiple discovered nearby devices." />
+    <img src="/screenshots/iphone/5-en.png" alt="CamScreen viewer screen listing multiple discovered nearby devices." />
   </div>
 </section>
 
