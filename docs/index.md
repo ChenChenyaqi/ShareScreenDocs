@@ -16,7 +16,7 @@ hero:
       text: Explore Features
       link: "#features"
     - theme: alt
-      text: Coming Soon on the App Store
+      text: Available on AppStore
       link: https://apps.apple.com/us/app/localscreen-share/id6759612385
     - theme: alt
       text: Support
